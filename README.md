@@ -1,7 +1,5 @@
 # ToutiaoRec
 
----
-
 ### Dataset Organization
 
 ToutiaoRec is constructed by sampling 70 million user requests from the Toutiao feed scenario over 3 days, resulting in 313 million requests. The dataset includes real user feedback such as clicks, likes, comments, and more. For each request, we retain all exposed items, along with the ranking information across all pipeline stages.
